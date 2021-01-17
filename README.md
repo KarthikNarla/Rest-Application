@@ -1,1 +1,1 @@
-This is an example for REST API implemenattion in Java.
+This is an example for REST API implementation in Java.
